@@ -78,4 +78,6 @@
 
 ### 💜SW Language💜
 
-##### java
+##### Java
+
+##### Python
