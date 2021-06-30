@@ -78,4 +78,5 @@
 
 ### 💜SW Language💜
 
-![캡처2](https://user-images.githubusercontent.com/50656146/123887934-5edba080-d98d-11eb-886c-76e18227d542.PNG)
+![캡처3](https://user-images.githubusercontent.com/50656146/123888029-94808980-d98d-11eb-9486-3d71a38bfc8c.PNG)
+
