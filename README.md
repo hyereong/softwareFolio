@@ -15,10 +15,6 @@
 #### [6 내가 잘 다루는 SW Language][nlink]
 [nlink]: https://github.com/hyereong/softwareFolio/blob/main/README.md#%EB%82%B4%EA%B0%80-%EC%9E%98-%EB%8B%A4%EB%A3%A8%EB%8A%94-sw-language
 
-[Google][googlelink]
-
-[googlelink]: https://google.com "Go google"
-
 ***
 
 ### 💜소개💜
