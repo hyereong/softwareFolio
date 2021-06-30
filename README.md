@@ -17,4 +17,4 @@
   //      8. 내가 잘 다루는 SW Language을 나열
         
         
-<img src="![50dsrj8128nv4ly441m7](https://user-images.githubusercontent.com/50656146/123883415-f1774200-d983-11eb-9ff6-a1f221cba713.jpg)"></img><br/>
+![50dsrj8128nv4ly441m7](https://user-images.githubusercontent.com/50656146/123883415-f1774200-d983-11eb-9ff6-a1f221cba713.jpg)
