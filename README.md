@@ -23,8 +23,11 @@
 
 ##### 이름 : 최혜령
 
-#####
+##### 출생 : 1999년 2월 2일 [경주시][gylink]
+[gylink]:https://www.gyeongju.go.kr/design/ko2019/popup/covid/index.html
 
+##### 사이트 : [네이버 블로그][blink]
+[blink]:http://blog.naver.com/fud6571
 
 ***
 
