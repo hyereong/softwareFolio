@@ -45,7 +45,14 @@
 
 ### 💜내가 자주가는 사이트💜
 
-##### [안동대학교 종합정보시스템]: https://i4u.anu.ac.kr/
+##### [안동대학교 학습관리시스템][ahlink]
+[ahlink]:https://lms.andong.ac.kr/ilos/main/main_form.acl
+
+##### [안동대학교 종합정보시스템][ajlink]
+[ajlink]:https://i4u.anu.ac.kr/
+
+##### [코딩도장][codolink]
+[coddolink]: https://dojang.io/
 
 ***
 
