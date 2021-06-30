@@ -78,6 +78,4 @@
 
 ### 💜SW Language💜
 
-##### Java
-
-##### Python
+![캡처2](https://user-images.githubusercontent.com/50656146/123887934-5edba080-d98d-11eb-886c-76e18227d542.PNG)
