@@ -15,7 +15,7 @@
 ##### [5 프로젝트 참여 목록][plink]
 [plink]: https://github.com/hyereong/softwareFolio/blob/main/README.md#%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%B0%B8%EC%97%AC-%EB%AA%A9%EB%A1%9D
 ##### [6 SW Language][nlink]
-[nlink]: https://github.com/hyereong/softwareFolio/blob/main/README.md#%EB%82%B4%EA%B0%80-%EC%9E%98-%EB%8B%A4%EB%A3%A8%EB%8A%94-sw-language
+[nlink]: https://github.com/hyereong/softwareFolio/blob/main/README.md#sw-language
 
 ***
 
