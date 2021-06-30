@@ -2,12 +2,15 @@
 
 # 💜목차
 
-#### 1 소개(https://github.com/hyereong/softwareFolio/blob/main/README.md#%EC%86%8C%EA%B0%9C)
+#### 1 소개
 #### 2 교육
 #### 3 내가 자주가는 사이트
 #### 4 장점
 #### 5 프로젝트 참여 목록
 #### 6 내가 잘 다루는 SW Language
+
+Link: [Google][googlelink]
+[googlelink]: https://google.com "Go google"
 
 ***
 
