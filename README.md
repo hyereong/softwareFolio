@@ -52,7 +52,7 @@
 [ajlink]:https://i4u.anu.ac.kr/
 
 ##### [코딩도장][codolink]
-[coddolink]: https://dojang.io/
+[codolink]: https://dojang.io/
 
 ***
 
