@@ -2,7 +2,7 @@
 ![KakaoTalk_20210630_092925109](https://user-images.githubusercontent.com/50656146/123884225-bd048580-d985-11eb-88e5-eedbdee5f793.jpg)
 ##### 안녕하세요 최혜령_20181133_컴퓨터공학과 입니다.
 
-# 💜목차
+# 💜목차💜
 
 #### [1 소개][slink]
 [slink]: https://github.com/hyereong/softwareFolio/blob/main/README.md#%EC%86%8C%EA%B0%9C
